@@ -36,6 +36,8 @@ class startup {
 
         grafikArt.getInhalt();
         grafikArt.find("Apple");
+        
+        System.out.println("hallo Welt hahah");
 
 
     }
